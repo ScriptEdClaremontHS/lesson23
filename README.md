@@ -10,10 +10,11 @@
 
 ## Yesterday's project
 
-1. Here is the code to make Scratchy walk in a square:
+* Here is the code to make Scratchy walk in a square:
 
 ![first scratch program](images/first.png)
-2. Make Scratchy walk in a square using the `Repeat` block:
+
+* Make Scratchy walk in a square using the `Repeat` block:
 
 ![repeat block](images/repeat.png)
 
