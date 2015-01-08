@@ -26,3 +26,13 @@
 
 ## YOU DO: Calculate the area of a rectangle!
 
+![rectangle](images/rectangle.jpg)
+
+Using the knowledge you just learned from creating the hello program, create a program that can calculate the area of a rectangle.
+
+ 1. The program must first ask the user for the width of the rectangle.
+ 2. Store that user input in a variable called **width**
+ 3. Repeat steps 1 & 2 for the rectangle's **height**
+ 4. Create a third variable called **area**
+ 5. Using the **Operators** block, set the **area** variable to the product of **width** x **height**
+ 6. Now you can use the **Say** block to have Scratchy tell the user the area of the rectangle.
