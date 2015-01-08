@@ -10,10 +10,16 @@
 
 ## Yesterday's project
 
-* Here is the code to make Scratchy walk in a square:
+1. Here is the code to make Scratchy walk in a square:
 
 ![first scratch program](images/first.png)
 
-* Make Scratchy walk in a square using the `Repeat` block:
+2. Make Scratchy walk in a square using the `Repeat` block:
 
 ![repeat block](images/repeat.png)
+
+## Join Scratch
+
+1. Go to [www.scratch.mit.edu](www.scratch.mit.edu)
+2. Click "Join Scratch"
+3. Choose a username and create an account!
