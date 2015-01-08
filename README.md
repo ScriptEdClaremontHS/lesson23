@@ -23,3 +23,6 @@
 1. Go to [www.scratch.mit.edu](www.scratch.mit.edu)
 2. Click "Join Scratch"
 3. Choose a username and create an account!
+
+## YOU DO: Calculate the area of a rectangle!
+
